@@ -15,3 +15,4 @@ Basically, this code is trying to conduct 6D pose tracking and object model reco
 * [redwood-dataset](http://redwood-data.org/3dscan/)
 
 Some result demo:
+![image](https://github.com/j96w/6D-tracking-baseline/blob/master/demo/ycb_syn.gif)   
